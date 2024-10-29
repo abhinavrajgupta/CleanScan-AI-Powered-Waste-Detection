@@ -1,4 +1,8 @@
-## Project File Descriptions
+# Author:
+### Abhinav Raj Gupta
+
+
+# Project File Descriptions
 
 1. Training/training.ipynb:
 Jupyter notebook containing all the training code for the YOLOv5 model. This includes data preprocessing, model configuration, training, and evaluation steps.
